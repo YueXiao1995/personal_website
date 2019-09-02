@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Bootstrap Practice 21: Navigation Bar</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <script type="text/javascript" src="./js/mdb.min.js"></script>
+    <script type="text/javascript" src="js/popper.min.js"></script>
+    <script src="./js/jquery-3.4.1.min.js"></script>
+    <script src="./js/bootstrap.min.js"></script>
+    <script src="https://kit.fontawesome.com/081489ea7f.js"></script>
+    <style>
+        /* Make the image fully responsive */
+        .carousel-inner img {
+            width: 100%;
+            height: 60%;
+        }
+
+        .checked {
+            color: orange;
+        }
+
+        hr {
+            border-top: 1px solid grey;
+        }
+
+        .card-horizontal {
+            display: flex;
+            flex: 1 1 auto;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="jumbotron jumbotron-fluid text-center" style="
+background-image: url(./project_images/jumbotron-home.jpg);
+background-size: cover;
+height: auto; margin-bottom:0;">
+        <h1 class="text-white">Welcome to Yue's Home</h1>
+    </div>
+    <nav class="navbar navbar-expand-md bg-dark navbar-dark sticky-top">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="collapsibleNavbar">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="./home.html">Home</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" id="navbar-resume" data-toggle="dropdown">
+                        Resume
+                    </a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="#">Profile</a>
+                        <a class="dropdown-item" href="#">Employment History</a>
+                        <a class="dropdown-item" href="#">Education</a>
+                        <a class="dropdown-item" href="#">Skills</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" id="navbar-projects" data-toggle="dropdown">
+                        Personal Projects
+                    </a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="#">This Website</a>
+                        <a class="dropdown-item" href="#">Recommnend System</a>
+                    </div>
+                </li>
+
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" id data-toggle="dropdown">About Me</a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="#" id="navbar-about-me" data-toggle="dropdown">Life Experience</a>
+                        <a class="dropdown-item" href="#">Hobbies</a>
+                    </div>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" id="navbar-blogs" data-toggle="dropdown">
+                        Blogs
+                    </a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="#">Machine Learning</a>
+                        <a class="dropdown-item" href="#">Deep Learning</a>
+                        <a class="dropdown-item" href="#">Big Data</a>
+                        <a class="dropdown-item" href="#">Data Mining</a>
+                        <a class="dropdown-item" href="#">NLP</a>
+                        <a class="dropdown-item" href="#">Recommnend System</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+
+    <div class="container-fluid" style="margin-top:30px;">
+        <div class="row">
+            <div class="col-sm-2">
+                <h3>Topics</h3>
+                <br>
+                <ul class="nav nav-pills flex-column">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#">Machine Learning</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Big Data</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Data Mining</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">NLP</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled" href="#">Recommend System</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-3" style="border-left: 1px solid grey">
+                <h4>Table of Content</h4>
+                <hr>
+                <ul class="nav nav-pills flex-column">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#">Introduction and Fundamentals</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">KNN</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Decision Trees</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Naive Bayes</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled" href="#">Evaluation</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Feature Selection</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Feature Transformation</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Feature Transformation</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Dimension Reduction</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled" href="#">Regression Gradient Descent</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Ensembles</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Ensembles
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled" href="#">Machine Learning Big Ideas</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-7" style="border-left: 1px solid grey">
+                <div id="section1">
+                    <h3>Introduction and Fundamentals</h3>
+                    <h5>Title description, Dec 7, 2017</h5>
+                    <div class="fakeimg">Fake Image</div>
+                    <p>Some text..</p>
+                    <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+                </div>
+                <br>
+                <div>
+                    <h3>KNN</h3>
+                    <h5>Title description, Sep 2, 2017</h5>
+                    <div class="fakeimg">Fake Image</div>
+                    <p>Some text..</p>
+                    <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body></html>
