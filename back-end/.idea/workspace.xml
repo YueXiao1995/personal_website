@@ -2,127 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9dbac6dc-d187-4491-a72f-207f9639fcb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/addons/datatables-select.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/addons/datatables-select.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/addons/datatables.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/addons/datatables.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/addons/directives.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/addons/directives.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/addons/flag.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/addons/flag.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/addons/rating.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/addons/rating.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/addons/zmd.hierarchical-display.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/addons/zmd.hierarchical-display.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/brands.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/fontawesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/mdb.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/modules/animations-extended.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/modules/animations-extended.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/solid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/akb48-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/at-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bjut-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bootstrap-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/brain-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/cooking-1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/dublin-1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/dublin-2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/dublin-3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/facebook-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/flask-icon.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/flask-icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/galaxy-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/github-icon..png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/github-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/gmail-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/guangzhou-1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/henan-mount-heng-1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/henan-mount-heng-2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/henan-peak-mount- heng.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/hohhot-no-2-icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/home-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/home-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/inspirational-quotes-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/instagram-icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/jumbotron-home.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/jupiter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/leetcode-icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/mobile-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/one-piece-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/resume-screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/science-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/science-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/sichuan-dujiangyan-1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/sichuan-dujiangyan-2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/sichuan-dujiangyan-3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/sichuan-panda.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/sichuan-selfie.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/ucd-icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/ucd-selfie.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/ucd-swan-1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/ucd-swan-2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/xiaoliedu-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/addons/datatables-select.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/addons/datatables-select.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/addons/datatables.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/addons/datatables.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/addons/imagesloaded.pkgd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/addons/jquery.zmd.hierarchical-display.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/addons/jquery.zmd.hierarchical-display.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/addons/masonry.pkgd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/addons/progressBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/addons/progressBar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/addons/rating.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/addons/rating.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/brands.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/fontawesome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/mdb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/mdb.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/modules/bs-custom-file-input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/modules/chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/modules/enhanced-modals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/modules/forms-free.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/modules/jquery.easing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/modules/scrolling-navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/modules/treeview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/modules/velocity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/modules/velocity.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/modules/waves.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/modules/wow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/selectnav.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/solid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/videos/The-news-reporter.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/about-me.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/blogs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/projects.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -131,26 +12,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="392" lean-forward="true" selection-start-line="392" selection-end-line="392" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="149">
+              <caret line="375" selection-start-line="375" selection-end-line="376" />
             </state>
           </provider>
         </entry>
@@ -170,16 +46,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/app.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="20" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="556" />
     <option name="y" value="23" />
-    <option name="width" value="748" />
-    <option name="height" value="876" />
+    <option name="width" value="884" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -213,6 +89,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -265,24 +142,20 @@
       <option name="presentableId" value="Default" />
       <updated>1567430178353</updated>
       <workItem from="1567430179708" duration="1856000" />
+      <workItem from="1567465801072" duration="28000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1856000" />
+    <option name="totallyTimeSpent" value="1884000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="556" y="23" width="884" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14306152" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24109264" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -290,11 +163,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,22 +213,17 @@
     <entry file="file://$PROJECT_DIR$/static/css/addons/flag.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.py">
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        <state relative-caret-position="149">
+          <caret line="375" selection-start-line="375" selection-end-line="376" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home.html">
+    <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="392" lean-forward="true" selection-start-line="392" selection-end-line="392" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
