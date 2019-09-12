@@ -4,30 +4,26 @@
     <list default="true" id="9dbac6dc-d187-4491-a72f-207f9639fcb5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/cooking-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/dublin-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/dublin-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/dublin-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/henan-mount-heng-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/henan-peak-mount- heng.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/sichuan-dujiangyan-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/sichuan-dujiangyan-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/ucd-swan-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/ucd-swan-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/about-me.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about-me.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/blogs.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blogs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/static/images/cooking-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/static/images/dublin-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/static/images/dublin-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/static/images/dublin-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/static/images/henan-mount-heng-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/static/images/henan-peak-mount- heng.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/static/images/sichuan-dujiangyan-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/static/images/sichuan-dujiangyan-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/static/images/ucd-swan-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/static/images/ucd-swan-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/.cooking-1.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/.dublin-1.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/.dublin-2.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/.dublin-3.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/.henan-mount-heng-2.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/.henan-peak-mount- heng.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/.sichuan-dujiangyan-1.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/.sichuan-dujiangyan-2.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/.ucd-swan-1.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/.ucd-swan-2.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/static/images/.cooking-1.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/static/images/.dublin-1.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/static/images/.dublin-2.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/static/images/.dublin-3.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/static/images/.henan-mount-heng-2.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/static/images/.henan-peak-mount- heng.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/static/images/.sichuan-dujiangyan-1.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/static/images/.sichuan-dujiangyan-2.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/static/images/.ucd-swan-1.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/static/images/.ucd-swan-2.jpg.icloud" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -122,8 +118,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="748" />
+    <option name="x" value="582" />
+    <option name="y" value="56" />
+    <option name="width" value="959" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -216,16 +213,18 @@
       <workItem from="1567848653823" duration="588000" />
       <workItem from="1567909671582" duration="546000" />
       <workItem from="1567944800877" duration="169000" />
+      <workItem from="1568301754551" duration="1722000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9064000" />
+    <option name="totallyTimeSpent" value="10786000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="748" height="877" extended-state="0" />
+    <frame x="582" y="56" width="959" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32719547" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25845146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -267,8 +266,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
